@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sr",
+				"SR"
+			],
+			[
+				"ser",
+				"SER"
+			],
+			[
+				"er",
+				"ER"
+			],
+			[
+				"title",
+				"titledict"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"data",
+				"data_dict"
+			],
+			[
+				"classi",
+				"classified_tweets"
+			],
+			[
+				"cl",
+				"classified_tweets"
+			],
+			[
+				"myd",
+				"mydict1"
+			],
+			[
+				"f",
+				"full_text"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"logout",
+				"logout_view"
+			],
+			[
+				"get",
+				"get_user_model"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"style",
+				"stylesheet"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/Automatic_Classification/urls.py",
+		"/C/Users/admin/Desktop/form_validation.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/urls.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/checkcsv.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/classification.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/views.py",
+		"/C/Users/admin/Desktop/CG/fractal lines.c",
+		"/C/Users/admin/Desktop/CG/suth-hodgeman.c",
+		"/C/Users/admin/Desktop/CG/midpt circle.c",
+		"/C/Users/admin/Desktop/CG/mid-pt ellipse.cpp",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/home.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/f1.html",
+		"/C/Users/admin/Desktop/CG/Floodfill.c",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/static/css/style1.css",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-1.html",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/templates/pages/index.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/models.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-10.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-5.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-6.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-7.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-8.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-9.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-4.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-2.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-3.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/static/css/style.css",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/data-extraction.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/tweets.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/admin.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/Automatic_Classification/settings.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/migrations/0001_initial.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/test123/migrations/__init__.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/get",
+		"/C/Users/admin/Desktop/CG/viewport.c",
+		"/C/Users/admin/Desktop/CG/viewport.txt",
+		"/C/Users/admin/Desktop/CG/Floodfill.cpp",
+		"/C/Users/admin/Desktop/Java-Practice-1/KaratsubaAlgo.java",
+		"/C/Users/admin/Desktop/codezilla/Maths/ArmstrongNo.cpp",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-h.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-l.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-k.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-j.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-i.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-g.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-f.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-e.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-d.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-c.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-b.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-a.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-16.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-15.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-14.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-13.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-12.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-11.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/login.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/static/css/login.css",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/index.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/forms.py",
+		"/C/Users/admin/Desktop/New folder/tweets.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/tweet_retrieving.py",
+		"/C/Users/admin/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/tweepy/streaming.py",
+		"/C/Users/admin/Desktop/algorithms/algorithms/ml/K_means.py",
+		"/C/Users/admin/Desktop/algorithms/PULL_REQUEST_TEMPLATE.md",
+		"/C/Users/admin/Desktop/K_means.py",
+		"/C/Users/admin/Desktop/algorithms/docs/source/sort.rst",
+		"/C/Users/admin/Desktop/algorithms/CONTRIBUTING.md",
+		"/C/Users/admin/Desktop/algorithms/tests/test_K_means.py",
+		"/C/Users/admin/Desktop/algorithms/tests/test_sort.py",
+		"/C/Users/admin/Desktop/algorithms/tests/test_graph.py",
+		"/C/Users/admin/Desktop/algorithms/README.md",
+		"/C/Users/admin/Desktop/algorithms/tests/test_backtrack.py",
+		"/C/Users/admin/Downloads/First.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/static/scss/style.scss",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/login.css",
+		"/C/Users/admin/Desktop/movie_recommendation/movie_recommendation/settings.py",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/views.py",
+		"/E/Try-Django-master/src/pages/views.py",
+		"/E/Try-Django-master/src/products/templates/products/product_list.html",
+		"/E/Try-Django-master/src/products/admin.py",
+		"/E/Try-Django-master/src/products/templates/products/product_create.html",
+		"/E/Try-Django-master/src/products/apps.py",
+		"/E/Try-Django-master/src/products/models.py",
+		"/E/Try-Django-master/src/products/forms.py",
+		"/E/Try-Django-master/src/products/views.py",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/static/css/style.css",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/urls.py",
+		"/C/Users/admin/Desktop/movie_recommendation/movie_recommendation/urls.py",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/templates/pages/review.html",
+		"/C/Users/admin/Desktop/movie_recommendation/db.sqlite3",
+		"/C/Users/admin/Desktop/ProjectX2-master/databaseproject/settings.py",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/static/sass/layout/_header.scss",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/models.py",
+		"/C/Users/admin/Desktop/movie-recommendations-master/app/models/QueryModel.py",
+		"/C/Users/admin/Desktop/movie-recommendations-master/scripts/test_query_engine.py",
+		"/C/Users/admin/Desktop/movie-recommendations-master/config.py",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/templates/pages/single.html",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/templates/pages/contact.html",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/templates/pages/joinus.html",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/templates/pages/about.html",
+		"/C/Users/admin/Desktop/movie-recommendations-master/config.json",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/templates/New folder/index.html",
+		"/C/Users/admin/Desktop/movie_recommendation/webapp/__init__.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mepd",
+			"feedback-2",
+			"feedback-1",
+			"ecor",
+			"feedback-15",
+			"feedbak-15",
+			"rx",
+			"ry",
+			"site-element",
+			"columns small-4 large-3",
+			"()",
+			"async",
+			"wrap-input100 validate-input",
+			"checked",
+			"font-family",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "urls.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

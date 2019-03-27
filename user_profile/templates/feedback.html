@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	{% load staticfiles %}
+		<link rel='stylesheet' href="{% static 'css/style1.css' %}" type='text/css'>
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+<!------ Include the above in your HEAD tag ---------->
+<body>
+<div class="container">
+	<div class="row">
+
+		<section class="content">
+			<h1 align="center">{{ title }} Feedback</h1>
+			<div class="col-md-8 col-md-offset-2">
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<div class="table-container">
+							<table class="table table-filter">
+								<tbody>
+									{% for item in object_list %}
+									<tr data-status="pagado" class="selected">
+										<td>
+										 {{item.tweet}}
+										</td>
+									</tr>
+									{% endfor %}
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>		
+			</div>
+		</section>
+	</div>
+</div>
+</body>
+</html>
